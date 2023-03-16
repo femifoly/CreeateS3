@@ -2,6 +2,7 @@
 #### How to create S3 bucket
 
 * Login to AWS console
+![](
 * Type s3 in the search bar to pull up the service
 * Click create bucket
 * Name your buckett with a globally unique name in a region
