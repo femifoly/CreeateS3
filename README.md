@@ -5,23 +5,23 @@
 ----
 ![](https://github.com/femifoly/CreeateS3/blob/main/S3/singin.png) 
 ----
-----
+
 * Type s3 in the search bar to pull up the service
 ----
 ![](https://github.com/femifoly/CreeateS3/blob/main/S3/s3search.png)
 ----
-----
+
 * Click create bucket
 * Name your buckett with a globally unique name in a region
 * Configure the ACL and public access
-----
+
 ----
 ![](https://github.com/femifoly/CreeateS3/blob/main/S3/creates3.png)
 ----
-----
+
 * Click on create bucket
 ----
-----
+
 ![](https://github.com/femifoly/CreeateS3/blob/main/S3/creates3last.png)
 ----
 This will create our input S3 bucket in the chosen region (us-east-1) and we can repeat the same steps to create our output bucket in the same region.
