@@ -10,13 +10,17 @@
 ----
 ![](https://github.com/femifoly/CreeateS3/blob/main/S3/s3search.png)
 ----
+----
 * Click create bucket
 * Name your buckett with a globally unique name in a region
 * Configure the ACL and public access
 ----
+----
 ![](https://github.com/femifoly/CreeateS3/blob/main/S3/creates3.png)
 ----
+----
 * Click on create bucket
+----
 ----
 ![](https://github.com/femifoly/CreeateS3/blob/main/S3/creates3last.png)
 ----
