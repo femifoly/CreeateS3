@@ -26,6 +26,8 @@
 ----
 This will create our input S3 bucket in the chosen region (us-east-1) and we can repeat the same steps to create our output bucket in the same region.
 ----
+![](https://github.com/femifoly/CreeateS3/blob/main/S3/uploadlast.png)
+----
 
 #### How to upload objects into S3 bucket
 
