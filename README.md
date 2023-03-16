@@ -17,7 +17,7 @@ Amazon Simple Storage Service (Amazon S3) is an object storage service that offe
 ----
 
 * Click create bucket
-* Name your buckett with a globally unique name in a region
+* Name your bucket with a globally unique name in a region
 * Configure the ACL and public access
 
 ----
