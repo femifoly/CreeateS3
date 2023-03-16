@@ -1,5 +1,5 @@
 # Creeate S3 Bucket
-What is AWS S3?
+#### What is AWS S3?
 
 Amazon Simple Storage Service (Amazon S3) is an object storage service that offers industry-leading scalability, data availability, security, and performance. You can use Amazon S3 to store and retrieve any amount of data at any time, from anywhere.
 
@@ -50,7 +50,7 @@ These steps will upload the selected files into the S3 bucket and you will be ab
 
 # Create a Lambda Function
 
-What is AWS Lambda?
+#### What is AWS Lambda?
 AWS Lambda is a serverless compute service that runs your code in response to events and automatically manages the underlying compute resources for you.
 Since we can run whisper using python language, it is easy for us to test and translate our Albanian audio by triggering Lambda functions to carry out these tasks.
 Using AWS S3, lambda and whisper to do speech to text has many advantages. Itt's cost effective, scalable and eaasy to use.
@@ -62,5 +62,5 @@ Using AWS S3, lambda and whisper to do speech to text has many advantages. Itt's
 * Pay-as-you-go
 * Monitor Performance
 
-How to install AWS Lambda
+#### How to install AWS Lambda
 
