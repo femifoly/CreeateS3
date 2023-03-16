@@ -2,6 +2,7 @@
 #### How to create S3 bucket
 
 * Login to AWS console
+--------
 ![](https://github.com/femifoly/CreeateS3/blob/main/S3/singin.png) 
 * Type s3 in the search bar to pull up the service
 ![](https://github.com/femifoly/CreeateS3/blob/main/S3/s3search.png)
@@ -11,7 +12,7 @@
 ![](https://github.com/femifoly/CreeateS3/blob/main/S3/creates3.png)
 * Click on create bucket
 ![](https://github.com/femifoly/CreeateS3/blob/main/S3/creates3last.png)
-This will create our input S3 bucket in the chosen region (us-east-1) and we can repeate the same steps to create our output bucket in the same region.
+This will create our input S3 bucket in the chosen region (us-east-1) and we can repeat the same steps to create our output bucket in the same region.
 
 #### How to upload objects into S3 bucket
 
