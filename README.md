@@ -2,7 +2,7 @@
 #### How to create S3 bucket
 
 * Login to AWS console
---------
+----
 ![](https://github.com/femifoly/CreeateS3/blob/main/S3/singin.png) 
 * Type s3 in the search bar to pull up the service
 ![](https://github.com/femifoly/CreeateS3/blob/main/S3/s3search.png)
