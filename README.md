@@ -31,6 +31,7 @@ Amazon Simple Storage Service (Amazon S3) is an object storage service that offe
 ----
 
 This will create our input S3 bucket in the chosen region (us-east-1) and we can repeat the same steps to create our output bucket in the same region.
+
 ----
 
 
